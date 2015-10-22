@@ -31,3 +31,21 @@ Result
 ```
 {key3: 15, key2: 120, key1: 1}
 ```
+
+Code
+```
+Console console = new Console();
+
+List<String> list = new ArrayList<String>();
+
+list.add("element1");
+list.add("element2");
+list.add("element3");
+
+console.log(list);
+```
+
+Result
+```
+{element1, element2, element3}
+```
