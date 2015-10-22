@@ -7,6 +7,7 @@ These are the object types that, at the moment, are available.
 * HashMap
 * Array
 
+Warning: this not work with primitive types like `int`
 
 ## Main examples
 These are a few usage examples of Console class
