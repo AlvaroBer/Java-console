@@ -1,11 +1,11 @@
 # Java Console class v 0.1
-The purpose of this class is to help to print default Java's objects in the console.
+The purpose of this class is to help to print default Java's objects in the console, for example, HashMap and ArrayList objects.
+
+These are the object types that, at the moment, are available.
 
 ```
-x = 0
-x = 2 + 2
-what is x
+ArrayList
+HashMap
+Array
 ```
-
-
 
