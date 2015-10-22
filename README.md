@@ -7,7 +7,7 @@ These are the types and data structures that, at the moment, are available.
 * HashMap
 * Array
 
-*Warning:* the class doesn't work with primitive types like `int`
+**Warning:** the class doesn't work with primitive types like `int`
 
 
 <br />
