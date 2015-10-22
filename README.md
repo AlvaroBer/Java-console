@@ -8,13 +8,10 @@ These are the object types that, at the moment, are available.
 * Array
 
 
-
-
-
 # Main examples
 These are a few usage examples of Console class
 
-##### log method
+#### log method
 
 Code
 ```
