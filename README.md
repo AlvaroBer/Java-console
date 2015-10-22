@@ -13,7 +13,7 @@ Warning: this not work with primitive types like `int`
 <br />
 
 ## Main examples
-These are a few usage examples of log method.
+Some few usage examples of log method.
 
 ### log method
 
