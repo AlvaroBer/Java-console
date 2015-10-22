@@ -12,7 +12,7 @@ Warning: the class doesn't work with primitive types like `int`
 
 <br />
 
-## Main examples
+## Main methods
 Some few usage examples of log method.
 
 ### log method
