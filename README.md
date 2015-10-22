@@ -1,4 +1,4 @@
-# Java Console class v 0.1
+# Java Console class v 0.1 ![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
 The purpose of this class is to help to print default Java's objects in the console, for example, the class can print HashMap and ArrayList objects.
 
 These are the object types that, at the moment, are available.
@@ -9,9 +9,6 @@ These are the object types that, at the moment, are available.
 
 Warning: this not work with primitive types like `int`
 
-<br />
-
-![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
 
 <br />
 
