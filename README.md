@@ -12,7 +12,7 @@ Warning: this not work with primitive types like `int`
 <br />
 
 ## Main examples
-These are a few usage examples of Console class
+These are a few usage examples of log method.
 
 ### log method
 
@@ -53,3 +53,27 @@ Result
 ```
 {element1, element2, element3}
 ```
+
+<br />
+
+Code
+```
+Console console = new Console();
+
+List<String> list = new ArrayList<String>();
+
+list.add("element1");
+list.add("element2");
+list.add("element3");
+
+console.log(list);
+```
+
+Result
+```
+{element1, element2, element3}
+```
+
+<br />
+
+![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
