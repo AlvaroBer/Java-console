@@ -7,7 +7,7 @@ These are the object types that, at the moment, are available.
 * HashMap
 * Array
 
-Warning: this not work with primitive types like `int`
+Warning: the class doesn't work with primitive types like `int`
 
 
 <br />
