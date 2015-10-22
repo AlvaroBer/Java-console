@@ -11,6 +11,10 @@ Warning: this not work with primitive types like `int`
 
 <br />
 
+![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
+
+<br />
+
 ## Main examples
 These are a few usage examples of log method.
 
@@ -73,7 +77,3 @@ Result
 ```
 {element1, element2, element3}
 ```
-
-<br />
-
-![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
