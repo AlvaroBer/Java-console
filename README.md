@@ -3,9 +3,8 @@ The purpose of this class is to help to print default Java's objects in the cons
 
 These are the object types that, at the moment, are available.
 
-```
-ArrayList
-HashMap
-Array
-```
+*ArrayList
+*HashMap
+*Array
+
 
