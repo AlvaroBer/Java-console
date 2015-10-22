@@ -15,7 +15,7 @@ These are the types and data structures that, at the moment, are available.
 ## Main methods
 A little explanation and examples about the main methods of the class.
 
-### log method
+### Log method
 
 Code
 ```
@@ -73,7 +73,7 @@ Result
 
 <br />
 
-### element method
+### Element method
 
 Code
 ```
