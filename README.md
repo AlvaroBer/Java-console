@@ -93,6 +93,37 @@ Result
 element2
 ```
 
+Code
+```
+Console console = new Console();
+
+HashMap<String, Integer> map = new HashMap<String, Integer>();
+
+map.put("key1", 1);
+map.put("key2", 120);
+map.put("key3", 15);
+
+
+
+List<String> list = new ArrayList<String>();
+
+list.add("element1");
+list.add("element2");
+list.add("element3");
+
+Integer[] list2 = {1,2,3,4,5,6,7};
+
+console.element(map,0);
+console.log(map);
+```
+
+Result
+```
+key3: 15
+{key3: 15, key2: 120, key1: 1}
+
+```
+
 <br />
 
 ![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
