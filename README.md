@@ -1,19 +1,19 @@
 # Java Console class v 0.1 
-The purpose of this class is to help to print default Java's objects in the console, for example, the class can print HashMap and ArrayList objects.
+The purpose of this class is to help to print in the console, objects and data structures of Java.
 
-These are the object types that, at the moment, are available.
+These are the types and data structures that, at the moment, are available.
 
 * ArrayList
 * HashMap
 * Array
 
-Warning: the class doesn't work with primitive types like `int`
+*Warning:* the class doesn't work with primitive types like `int`
 
 
 <br />
 
 ## Main methods
-Some few usage examples of log method.
+A little explanation and examples about the main methods of the class.
 
 ### log method
 
