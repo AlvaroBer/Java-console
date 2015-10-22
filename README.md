@@ -9,6 +9,8 @@ These are the object types that, at the moment, are available.
 
 Warning: this not work with primitive types like `int`
 
+<br />
+
 ## Main examples
 These are a few usage examples of Console class
 
@@ -31,6 +33,8 @@ Result
 ```
 {key3: 15, key2: 120, key1: 1}
 ```
+
+<br />
 
 Code
 ```
