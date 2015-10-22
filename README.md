@@ -1,5 +1,5 @@
 # Java Console class v 0.1 
-The purpose of this class is to help to print in the console, objects and data structures of Java.
+The purpose of this class is to help to print in the console objects and data structures of Java.
 
 These are the types and data structures that, at the moment, are available.
 
