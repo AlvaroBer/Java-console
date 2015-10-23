@@ -113,8 +113,6 @@ list.add("element1");
 list.add("element2");
 list.add("element3");
 
-Integer[] list2 = {1,2,3,4,5,6,7};
-
 console.element(map,0);
 console.log(map);
 ```
