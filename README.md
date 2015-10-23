@@ -105,14 +105,6 @@ map.put("key1", 1);
 map.put("key2", 120);
 map.put("key3", 15);
 
-
-
-List<String> list = new ArrayList<String>();
-
-list.add("element1");
-list.add("element2");
-list.add("element3");
-
 console.element(map,0);
 console.log(map);
 ```
