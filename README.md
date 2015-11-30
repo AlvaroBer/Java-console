@@ -116,5 +116,3 @@ key3: 15
 ```
 
 <br />
-
-![alt tag](http://es.creativecommons.org/blog/wp-content/uploads/2013/04/by_petit.png)
